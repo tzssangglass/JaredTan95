@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on [DaoCloud](https://www.daocloud.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and woring from home.
+Currently working on [DaoCloud](https://www.daocloud.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and working from home.
 
 you can follow my Github and Blog:
 

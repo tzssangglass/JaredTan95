@@ -8,6 +8,6 @@ you can follow my Github and Blog:
 
 ![Jared Tan's github stats](https://github-readme-stats.vercel.app/api?username=JaredTan95&show_icons=true&hide_border=false)
 
-[Blog](https://jared-says.cn/)
+[Blog](https://juejin.cn/user/1257497033967165/posts)
 
 <table><tr><td valign="top">
